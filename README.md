@@ -1,7 +1,7 @@
 # javascriptclock-2022
 
 [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End eğitimi için hazırlanan 'Başlangıç Seviye Front-End Web Development Patikası' ödevidir. "Ödev 1
-Javascript Saat ve Karşılama" için oluşturulmuştur.
+JavaScript Saat ve Karşılama" için oluşturulmuştur.
 
 ## Javascript Saat ve Karşılama
 
